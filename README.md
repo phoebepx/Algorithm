@@ -7,5 +7,6 @@ Each solved problem has a program written in Python. Every solution is tested an
 
 ## Problems
 ### Linked list 链表
-* [Add Two Numbers--单链表实现两数相加]()
-
+* [Add Two Numbers--单链表实现两数相加](https://github.com/phoebepx/Algorithm/blob/master/Linked%20list/Add%20Two%20Numbers.py)
+### LeetCode
+* [Longest Substring Without Repeating Characters---最长不重复子串长度](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Longest%20Substring%20Without%20Repeating%20Characters.py)
