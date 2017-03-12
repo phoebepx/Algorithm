@@ -14,3 +14,5 @@ Each solved problem has a program written in Python. Every solution is tested an
 * [Median of Two Sorted Arrays---两有序数组求中位数O（log(m+n)）](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Median%20of%20Two%20Sorted%20Arrays.py)
 * [Longest Palindromic Substring---字符串最长回文子串](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Longest%20Palindromic%20Substring.py)
 * [ZigZag Conversion---Z模式字符串变换](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/ZigZag Conversion.py)
+* [String to Integer (atoi)---字符串转成整数](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/String%20to%20Integer%20(atoi).py)
+* [Palindrome Number---判断回文数（不使用额外空间）](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Palindrome%20Number.py)
