@@ -8,7 +8,7 @@ Each solved problem has a program written in Python. Every solution is tested an
 ## Problems
 ### Common Algorithm
 * [Add Two Numbers--单链表实现两数相加](https://github.com/phoebepx/Algorithm/blob/master/Linked%20list/Add%20Two%20Numbers.py)
-* [DFA---可用于文字过滤等](https://github.com/phoebepx/Algorithm/blob/master/Common/DFA.py)
+* [DFA(deterministic finite automaton)---可用于文字过滤等](https://github.com/phoebepx/Algorithm/blob/master/Common/DFA.py)
 * [DFS&BFS---广度宽度优先遍历](https://github.com/phoebepx/Algorithm/blob/master/Common/DFS%20and%20BFS.py)
 ### LeetCode
 * [Longest Substring Without Repeating Characters---最长不重复子串长度](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Longest%20Substring%20Without%20Repeating%20Characters.py)
