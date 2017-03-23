@@ -35,7 +35,7 @@ class Solution(object):
             if num_of_letters+len(temp)+len(w)>maxWidth:
                 for i in range(maxWidth-num_of_letters):
                     #to average and add blank
-                    temp[i%(len(temp)-1) or 1]+=' '
+                    temp[i%((len(temp)-1) or 1)]+=' '
                 result.append(''.join(temp))
                 temp,num_of_letters=[],0
             temp+=[w]
