@@ -20,3 +20,4 @@ Each solved problem has a program written in Python. Every solution is tested an
 * [Valid Number---合法数字验证](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Valid%20Number.py)
 * [Word Ladder II---单词梯](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Word%20Ladder%20II.py)
 * [Max Points on a Line---平面上在同一直线上最大点数](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Max%20Points%20on%20a%20Line.py)
+* [LRU Cache---LRU缓存](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/LRU%20Cache.py)
