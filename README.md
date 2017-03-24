@@ -21,3 +21,6 @@ Each solved problem has a program written in Python. Every solution is tested an
 * [Word Ladder II---单词梯](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Word%20Ladder%20II.py)
 * [Max Points on a Line---平面上在同一直线上最大点数](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Max%20Points%20on%20a%20Line.py)
 * [LRU Cache---LRU缓存](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/LRU%20Cache.py)
+* [Count of Smaller Numbers After Self---自身后面的逆序数](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Count%20of%20Smaller%20Numbers%20After%20Self.py)
+* [Reverse Pairs---逆序对数](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Reverse%20Pairs.py)
+* [Text Justification---格式化输出文本](https://github.com/phoebepx/Algorithm/blob/master/LeetCode/Text%20Justification.py)
